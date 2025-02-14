@@ -1,7 +1,7 @@
 1. egfp_unmod_1.csv and egfp_unmod_1.pkl
 
 ^the pickle file is the one that was originally used in the paper that used the Optimus 5 Prime model.
-The csv file is the same exact data but in csv format for seeing the data.
+The csv file is the same exact data but in csv format for seeing the data. These were not possible to upload to the repository because the files are too big, but should be accessible to download through Dr. Sample's paper.
 
 2. Optimus 5 Prime (My Mod)
 
