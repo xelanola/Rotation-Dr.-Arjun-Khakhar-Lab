@@ -1,6 +1,4 @@
-1. Arjun Lab is an empty folder. I am in the process of deleting it.
-
-2. Optimus 5-Prime-Testing
+1. Optimus 5-Prime-Testing
 
 This folder contains the training model from  the github repository: https://github.com/pjsample/human_5utr_modeling, along with the data used to train and test the model.
 
